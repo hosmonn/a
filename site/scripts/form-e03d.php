@@ -7,8 +7,8 @@ $form = array(
     'email_message' => 'You have a new form submission',
     'success_redirect' => '',
     'email' => array(
-    'from' => 'alwan1001@gmail.com',
-    'to' => 'alwan1001@gmail.com'
+    'from' => '',
+    'to' => '#alwan1001@gmail.com'
     ),
     'fields' => array(
     'name' => array(
